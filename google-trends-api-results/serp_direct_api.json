@@ -1,0 +1,833 @@
+{
+    "widgets": [
+        {
+            "data": {
+                "default": {
+                    "timelineData": [
+                        {
+                            "time": "1709424000",
+                            "formattedTime": "Mar 3\u2009\u2013\u20099, 2024",
+                            "formattedAxisTime": "Mar 3, 2024",
+                            "value": [
+                                79
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "79"
+                            ]
+                        },
+                        {
+                            "time": "1710028800",
+                            "formattedTime": "Mar 10\u2009\u2013\u200916, 2024",
+                            "formattedAxisTime": "Mar 10, 2024",
+                            "value": [
+                                76
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "76"
+                            ]
+                        },
+                        {
+                            "time": "1710633600",
+                            "formattedTime": "Mar 17\u2009\u2013\u200923, 2024",
+                            "formattedAxisTime": "Mar 17, 2024",
+                            "value": [
+                                77
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "77"
+                            ]
+                        },
+                        {
+                            "time": "1711238400",
+                            "formattedTime": "Mar 24\u2009\u2013\u200930, 2024",
+                            "formattedAxisTime": "Mar 24, 2024",
+                            "value": [
+                                81
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "81"
+                            ]
+                        },
+                        {
+                            "time": "1711843200",
+                            "formattedTime": "Mar 31\u2009\u2013\u2009Apr 6, 2024",
+                            "formattedAxisTime": "Mar 31, 2024",
+                            "value": [
+                                79
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "79"
+                            ]
+                        },
+                        {
+                            "time": "1712448000",
+                            "formattedTime": "Apr 7\u2009\u2013\u200913, 2024",
+                            "formattedAxisTime": "Apr 7, 2024",
+                            "value": [
+                                79
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "79"
+                            ]
+                        },
+                        {
+                            "time": "1713052800",
+                            "formattedTime": "Apr 14\u2009\u2013\u200920, 2024",
+                            "formattedAxisTime": "Apr 14, 2024",
+                            "value": [
+                                78
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "78"
+                            ]
+                        },
+                        {
+                            "time": "1713657600",
+                            "formattedTime": "Apr 21\u2009\u2013\u200927, 2024",
+                            "formattedAxisTime": "Apr 21, 2024",
+                            "value": [
+                                80
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "80"
+                            ]
+                        },
+                        {
+                            "time": "1714262400",
+                            "formattedTime": "Apr 28\u2009\u2013\u2009May 4, 2024",
+                            "formattedAxisTime": "Apr 28, 2024",
+                            "value": [
+                                74
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "74"
+                            ]
+                        },
+                        {
+                            "time": "1714867200",
+                            "formattedTime": "May 5\u2009\u2013\u200911, 2024",
+                            "formattedAxisTime": "May 5, 2024",
+                            "value": [
+                                75
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "75"
+                            ]
+                        },
+                        {
+                            "time": "1715472000",
+                            "formattedTime": "May 12\u2009\u2013\u200918, 2024",
+                            "formattedAxisTime": "May 12, 2024",
+                            "value": [
+                                75
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "75"
+                            ]
+                        },
+                        {
+                            "time": "1716076800",
+                            "formattedTime": "May 19\u2009\u2013\u200925, 2024",
+                            "formattedAxisTime": "May 19, 2024",
+                            "value": [
+                                73
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "73"
+                            ]
+                        },
+                        {
+                            "time": "1716681600",
+                            "formattedTime": "May 26\u2009\u2013\u2009Jun 1, 2024",
+                            "formattedAxisTime": "May 26, 2024",
+                            "value": [
+                                79
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "79"
+                            ]
+                        },
+                        {
+                            "time": "1717286400",
+                            "formattedTime": "Jun 2\u2009\u2013\u20098, 2024",
+                            "formattedAxisTime": "Jun 2, 2024",
+                            "value": [
+                                77
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "77"
+                            ]
+                        },
+                        {
+                            "time": "1717891200",
+                            "formattedTime": "Jun 9\u2009\u2013\u200915, 2024",
+                            "formattedAxisTime": "Jun 9, 2024",
+                            "value": [
+                                77
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "77"
+                            ]
+                        },
+                        {
+                            "time": "1718496000",
+                            "formattedTime": "Jun 16\u2009\u2013\u200922, 2024",
+                            "formattedAxisTime": "Jun 16, 2024",
+                            "value": [
+                                75
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "75"
+                            ]
+                        },
+                        {
+                            "time": "1719100800",
+                            "formattedTime": "Jun 23\u2009\u2013\u200929, 2024",
+                            "formattedAxisTime": "Jun 23, 2024",
+                            "value": [
+                                75
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "75"
+                            ]
+                        },
+                        {
+                            "time": "1719705600",
+                            "formattedTime": "Jun 30\u2009\u2013\u2009Jul 6, 2024",
+                            "formattedAxisTime": "Jun 30, 2024",
+                            "value": [
+                                76
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "76"
+                            ]
+                        },
+                        {
+                            "time": "1720310400",
+                            "formattedTime": "Jul 7\u2009\u2013\u200913, 2024",
+                            "formattedAxisTime": "Jul 7, 2024",
+                            "value": [
+                                78
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "78"
+                            ]
+                        },
+                        {
+                            "time": "1720915200",
+                            "formattedTime": "Jul 14\u2009\u2013\u200920, 2024",
+                            "formattedAxisTime": "Jul 14, 2024",
+                            "value": [
+                                79
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "79"
+                            ]
+                        },
+                        {
+                            "time": "1721520000",
+                            "formattedTime": "Jul 21\u2009\u2013\u200927, 2024",
+                            "formattedAxisTime": "Jul 21, 2024",
+                            "value": [
+                                77
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "77"
+                            ]
+                        },
+                        {
+                            "time": "1722124800",
+                            "formattedTime": "Jul 28\u2009\u2013\u2009Aug 3, 2024",
+                            "formattedAxisTime": "Jul 28, 2024",
+                            "value": [
+                                78
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "78"
+                            ]
+                        },
+                        {
+                            "time": "1722729600",
+                            "formattedTime": "Aug 4\u2009\u2013\u200910, 2024",
+                            "formattedAxisTime": "Aug 4, 2024",
+                            "value": [
+                                83
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "83"
+                            ]
+                        },
+                        {
+                            "time": "1723334400",
+                            "formattedTime": "Aug 11\u2009\u2013\u200917, 2024",
+                            "formattedAxisTime": "Aug 11, 2024",
+                            "value": [
+                                85
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "85"
+                            ]
+                        },
+                        {
+                            "time": "1723939200",
+                            "formattedTime": "Aug 18\u2009\u2013\u200924, 2024",
+                            "formattedAxisTime": "Aug 18, 2024",
+                            "value": [
+                                82
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "82"
+                            ]
+                        },
+                        {
+                            "time": "1724544000",
+                            "formattedTime": "Aug 25\u2009\u2013\u200931, 2024",
+                            "formattedAxisTime": "Aug 25, 2024",
+                            "value": [
+                                83
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "83"
+                            ]
+                        },
+                        {
+                            "time": "1725148800",
+                            "formattedTime": "Sep 1\u2009\u2013\u20097, 2024",
+                            "formattedAxisTime": "Sep 1, 2024",
+                            "value": [
+                                84
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "84"
+                            ]
+                        },
+                        {
+                            "time": "1725753600",
+                            "formattedTime": "Sep 8\u2009\u2013\u200914, 2024",
+                            "formattedAxisTime": "Sep 8, 2024",
+                            "value": [
+                                87
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "87"
+                            ]
+                        },
+                        {
+                            "time": "1726358400",
+                            "formattedTime": "Sep 15\u2009\u2013\u200921, 2024",
+                            "formattedAxisTime": "Sep 15, 2024",
+                            "value": [
+                                84
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "84"
+                            ]
+                        },
+                        {
+                            "time": "1726963200",
+                            "formattedTime": "Sep 22\u2009\u2013\u200928, 2024",
+                            "formattedAxisTime": "Sep 22, 2024",
+                            "value": [
+                                82
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "82"
+                            ]
+                        },
+                        {
+                            "time": "1727568000",
+                            "formattedTime": "Sep 29\u2009\u2013\u2009Oct 5, 2024",
+                            "formattedAxisTime": "Sep 29, 2024",
+                            "value": [
+                                91
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "91"
+                            ]
+                        },
+                        {
+                            "time": "1728172800",
+                            "formattedTime": "Oct 6\u2009\u2013\u200912, 2024",
+                            "formattedAxisTime": "Oct 6, 2024",
+                            "value": [
+                                90
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "90"
+                            ]
+                        },
+                        {
+                            "time": "1728777600",
+                            "formattedTime": "Oct 13\u2009\u2013\u200919, 2024",
+                            "formattedAxisTime": "Oct 13, 2024",
+                            "value": [
+                                86
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "86"
+                            ]
+                        },
+                        {
+                            "time": "1729382400",
+                            "formattedTime": "Oct 20\u2009\u2013\u200926, 2024",
+                            "formattedAxisTime": "Oct 20, 2024",
+                            "value": [
+                                86
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "86"
+                            ]
+                        },
+                        {
+                            "time": "1729987200",
+                            "formattedTime": "Oct 27\u2009\u2013\u2009Nov 2, 2024",
+                            "formattedAxisTime": "Oct 27, 2024",
+                            "value": [
+                                89
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "89"
+                            ]
+                        },
+                        {
+                            "time": "1730592000",
+                            "formattedTime": "Nov 3\u2009\u2013\u20099, 2024",
+                            "formattedAxisTime": "Nov 3, 2024",
+                            "value": [
+                                85
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "85"
+                            ]
+                        },
+                        {
+                            "time": "1731196800",
+                            "formattedTime": "Nov 10\u2009\u2013\u200916, 2024",
+                            "formattedAxisTime": "Nov 10, 2024",
+                            "value": [
+                                95
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "95"
+                            ]
+                        },
+                        {
+                            "time": "1731801600",
+                            "formattedTime": "Nov 17\u2009\u2013\u200923, 2024",
+                            "formattedAxisTime": "Nov 17, 2024",
+                            "value": [
+                                94
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "94"
+                            ]
+                        },
+                        {
+                            "time": "1732406400",
+                            "formattedTime": "Nov 24\u2009\u2013\u200930, 2024",
+                            "formattedAxisTime": "Nov 24, 2024",
+                            "value": [
+                                100
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "100"
+                            ]
+                        },
+                        {
+                            "time": "1733011200",
+                            "formattedTime": "Dec 1\u2009\u2013\u20097, 2024",
+                            "formattedAxisTime": "Dec 1, 2024",
+                            "value": [
+                                91
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "91"
+                            ]
+                        },
+                        {
+                            "time": "1733616000",
+                            "formattedTime": "Dec 8\u2009\u2013\u200914, 2024",
+                            "formattedAxisTime": "Dec 8, 2024",
+                            "value": [
+                                94
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "94"
+                            ]
+                        },
+                        {
+                            "time": "1734220800",
+                            "formattedTime": "Dec 15\u2009\u2013\u200921, 2024",
+                            "formattedAxisTime": "Dec 15, 2024",
+                            "value": [
+                                96
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "96"
+                            ]
+                        },
+                        {
+                            "time": "1734825600",
+                            "formattedTime": "Dec 22\u2009\u2013\u200928, 2024",
+                            "formattedAxisTime": "Dec 22, 2024",
+                            "value": [
+                                99
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "99"
+                            ]
+                        },
+                        {
+                            "time": "1735430400",
+                            "formattedTime": "Dec 29, 2024\u2009\u2013\u2009Jan 4, 2025",
+                            "formattedAxisTime": "Dec 29, 2024",
+                            "value": [
+                                97
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "97"
+                            ]
+                        },
+                        {
+                            "time": "1736035200",
+                            "formattedTime": "Jan 5\u2009\u2013\u200911, 2025",
+                            "formattedAxisTime": "Jan 5, 2025",
+                            "value": [
+                                87
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "87"
+                            ]
+                        },
+                        {
+                            "time": "1736640000",
+                            "formattedTime": "Jan 12\u2009\u2013\u200918, 2025",
+                            "formattedAxisTime": "Jan 12, 2025",
+                            "value": [
+                                90
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "90"
+                            ]
+                        },
+                        {
+                            "time": "1737244800",
+                            "formattedTime": "Jan 19\u2009\u2013\u200925, 2025",
+                            "formattedAxisTime": "Jan 19, 2025",
+                            "value": [
+                                91
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "91"
+                            ]
+                        },
+                        {
+                            "time": "1737849600",
+                            "formattedTime": "Jan 26\u2009\u2013\u2009Feb 1, 2025",
+                            "formattedAxisTime": "Jan 26, 2025",
+                            "value": [
+                                88
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "88"
+                            ]
+                        },
+                        {
+                            "time": "1738454400",
+                            "formattedTime": "Feb 2\u2009\u2013\u20098, 2025",
+                            "formattedAxisTime": "Feb 2, 2025",
+                            "value": [
+                                95
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "95"
+                            ]
+                        },
+                        {
+                            "time": "1739059200",
+                            "formattedTime": "Feb 9\u2009\u2013\u200915, 2025",
+                            "formattedAxisTime": "Feb 9, 2025",
+                            "value": [
+                                89
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "89"
+                            ]
+                        },
+                        {
+                            "time": "1739664000",
+                            "formattedTime": "Feb 16\u2009\u2013\u200922, 2025",
+                            "formattedAxisTime": "Feb 16, 2025",
+                            "value": [
+                                92
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "92"
+                            ]
+                        },
+                        {
+                            "time": "1740268800",
+                            "formattedTime": "Feb 23\u2009\u2013\u2009Mar 1, 2025",
+                            "formattedAxisTime": "Feb 23, 2025",
+                            "value": [
+                                86
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "86"
+                            ]
+                        },
+                        {
+                            "time": "1740873600",
+                            "formattedTime": "Mar 2\u2009\u2013\u20098, 2025",
+                            "formattedAxisTime": "Mar 2, 2025",
+                            "value": [
+                                100
+                            ],
+                            "hasData": [
+                                true
+                            ],
+                            "formattedValue": [
+                                "100"
+                            ],
+                            "isPartial": true
+                        }
+                    ],
+                    "averages": []
+                }
+            },
+            "id": "TIMESERIES",
+            "type": "fe_line_chart",
+            "title": "Interest over time"
+        },
+        {
+            "data": {
+                "default": {
+                    "geoMapData": [
+                        {
+                            "geoCode": "GB-ENG",
+                            "geoName": "England",
+                            "value": [
+                                100
+                            ],
+                            "formattedValue": [
+                                "100"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "GB-NIR",
+                            "geoName": "Northern Ireland",
+                            "value": [
+                                95
+                            ],
+                            "formattedValue": [
+                                "95"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "GB-SCT",
+                            "geoName": "Scotland",
+                            "value": [
+                                93
+                            ],
+                            "formattedValue": [
+                                "93"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        },
+                        {
+                            "geoCode": "GB-WLS",
+                            "geoName": "Wales",
+                            "value": [
+                                83
+                            ],
+                            "formattedValue": [
+                                "83"
+                            ],
+                            "maxValueIndex": 0,
+                            "hasData": [
+                                true
+                            ]
+                        }
+                    ]
+                }
+            },
+            "id": "GEO_MAP",
+            "type": "fe_geo_chart_explore",
+            "title": "Interest by subregion"
+        }
+    ],
+    "keywords": [
+        {
+            "keyword": "coffee",
+            "name": "coffee",
+            "type": "Search term"
+        }
+    ]
+}
