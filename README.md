@@ -1,9 +1,11 @@
 # Google Trends Scraper API
 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/serp-api/google-search)
+
 This repository provides two approaches for collecting Google Trends data:
 
 1. **Free Scraper:** A lightweight solution for small-scale projects, testing, personal research, and educational purposes.
-2. **Bright Data Google Trends Scraper API:** A robust, high-volume solution for enterprise-level, scalable, and reliable data extraction.
+2. **[Bright Data Google Trends Scraper API](https://brightdata.com/products/serp-api/google-search/trends):** A robust, high-volume solution for enterprise-level, scalable, and reliable data extraction.
 
 ## Table of Contents
 - [Free Scraper](#free-scraper)
@@ -26,7 +28,7 @@ This repository provides two approaches for collecting Google Trends data:
 
 ## Free Scraper
 
-<img width="700" alt="bright-data-google-trends-api-screenshot-google-trends-page" src="https://github.com/user-attachments/assets/2168a20d-a588-454e-a682-a6bba3e4e460" />
+<img width="700" alt="bright-data-google-trends-api-screenshot-google-trends-page" src="https://github.com/luminati-io/google-trends-api/blob/main/images/418445062-2168a20d-a588-454e-a682-a6bba3e4e460.png" />
 
 A simple Google Trends scraper for small-scale data collection projects.
 
@@ -47,7 +49,7 @@ playwright install
 >
 
 ### Quick Start
-1. Edit these variables in [google-trends-scraper.py](https://github.com/triposat/Google-Trends-Scraper-API/blob/main/google-trends-scraper/google-trends-scraper.py):
+1. Edit these variables in [google-trends-scraper.py](https://github.com/luminati-io/Google-Trends-Scraper-API/blob/main/google-trends-scraper/google-trends-scraper.py):
 ```python
 query = "cryptocurrency"  # Your search term
 geo = "US"                # Country code
@@ -69,7 +71,7 @@ hl = "en-US"              # Language code
 }
 ```
 
-👉 See the [full JSON output](https://github.com/triposat/Google-Trends-Scraper-API/tree/main/google-trends-results).
+👉 See the [full JSON output](https://github.com/luminati-io/Google-Trends-Scraper-API/tree/main/google-trends-results).
 
 
 ### Limitations
@@ -98,7 +100,7 @@ For reliable, large-scale scraping, you'll need a more advanced solution.
 1. **Prerequisites**:
     - Create a [Bright Data account](https://brightdata.com/) (new users get $5 credit)
     - Obtain your [API key](https://docs.brightdata.com/general/account/api-token)
-2. **Setup**: Follow our [step-by-step guide](https://github.com/triposat/Google-Trends-Scraper-API/blob/main/setup-serp-api-guide.md) to integrate the API
+2. **Setup**: Follow our [step-by-step guide](https://github.com/luminati-io/Google-Trends-Scraper-API/blob/main/setup-serp-api-guide.md) to integrate the API
 3. **Implementation Methods**:
     - Direct API Access
     - Native Proxy-Based Access
@@ -146,7 +148,7 @@ print("Response saved to 'serp_direct_api.json'.")
 
 ```
 
-👉 See the [full JSON output](https://github.com/triposat/Google-Trends-Scraper-API/blob/main/google-trends-api-results/serp_direct_api.json).
+👉 See the [full JSON output](https://github.com/luminati-io/Google-Trends-Scraper-API/blob/main/google-trends-api-results/serp_direct_api.json).
 
 > **Note:** Use `brd_json=1` for parsed JSON. Additional parameters such as `geo` and `brd_trends` are explained in the Advanced Features section below.
 > 
@@ -191,7 +193,7 @@ print("Response saved to 'serp_native_proxy.json'.")
 
 ```
 
-👉 See the [full JSON output](https://github.com/triposat/Google-Trends-Scraper-API/blob/main/google-trends-api-results/serp_native_proxy.json).
+👉 See the [full JSON output](https://github.com/luminati-io/Google-Trends-Scraper-API/blob/main/google-trends-api-results/serp_native_proxy.json).
 
 > **Note:** For production environments, load Bright Data's SSL certificate as described in our [SSL Certificate Guide](https://docs.brightdata.com/general/account/ssl-certificate).
 >
@@ -199,7 +201,7 @@ print("Response saved to 'serp_native_proxy.json'.")
 ## Advanced Features
 
 ### Widgets
-<img width="700" alt="bright-data-google-trends-api-screenshot-timeseries-and-geomap" src="https://github.com/user-attachments/assets/20fd3ec5-b152-4e70-bee3-b093b7d78b86" />
+<img width="700" alt="bright-data-google-trends-api-screenshot-timeseries-and-geomap" src="https://github.com/luminati-io/google-trends-api/blob/main/images/418487699-20fd3ec5-b152-4e70-bee3-b093b7d78b86.png" />
 
 Google Trends provides different widgets to extract meaningful insights. You can specify which widgets you want using the `brd_trends` parameter:
 
@@ -231,7 +233,7 @@ curl --proxy brd.superproxy.io:33335 \
 ```
 
 ### Localization
-<img width="700" alt="bright-data-google-trends-api-screenshot-set-language" src="https://github.com/user-attachments/assets/d68f07f2-8a6a-46ef-942a-38b2813268dd" />
+<img width="700" alt="bright-data-google-trends-api-screenshot-set-language" src="https://github.com/luminati-io/google-trends-api/blob/main/images/418515025-d68f07f2-8a6a-46ef-942a-38b2813268dd.png" />
 
 The `hl` parameter allows you to retrieve search trend data in a specific language:
 
